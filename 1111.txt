@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dongeun
 dongeun
 dongeun
@@ -6,3 +7,9 @@ chanwoo
 chanwoo
 chanwoo
 chanwoo
+=======
+hohohoohhoo
+
+gitgitgitgitgitgitgitgitgitgitgitgitgitgigbigbigbigbgitgiggitigtigtigitgigtiti
+けいしぉいしかいしぉ
+>>>>>>> dc6176765f078311074e4f1b027d8058b60a5a36
