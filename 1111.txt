@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hohohoohhoo
+=======
+hohohoohhoo
+ki ra seong
+>>>>>>> 37ea5d42b790dd98baf37f55f01e93e0121ec0bb
